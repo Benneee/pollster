@@ -30,7 +30,7 @@ Simple, without authentication, API for polls and their management.
 
 ## Setup
 
-1. Run git clone using this url: https://github.com/Benneee/polls-api.git
+1. Run git clone using this url: https://github.com/Benneee/pollster.git
 2. You're required to have pipenv installed
 3. Run `pipenv shell` to enter virtual environment
 4. Run `pipenv install -r requirements.txt` as this would take care of installing all the dependencies from the Pipfile for you
